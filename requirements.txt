@@ -3,3 +3,4 @@ langchain-openai
 python-dotenv
 streamlit
 PyPDF2
+tavily-python
