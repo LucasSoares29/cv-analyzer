@@ -4,3 +4,11 @@ python-dotenv
 streamlit
 PyPDF2
 tavily-python
+langchain-tavily
+certifi
+pip-system-certs
+langgraph
+langgraph-supervisor
+ipython
+pyppeteer
+streamlit-modal
